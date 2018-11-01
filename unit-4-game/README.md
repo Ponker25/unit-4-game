@@ -1,6 +1,6 @@
 # unit-4-game
 
-![Crystal Collector](/assets/images/Crystal-Collector.PNG)
+![Crystal Collector](assets/images/Crystal-Collector.PNG)
 
 JQuery Crystals Collector Game
 
