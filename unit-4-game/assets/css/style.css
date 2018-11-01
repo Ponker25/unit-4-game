@@ -1,0 +1,26 @@
+.wrapper {
+    background-image: url(../images/ocean.jpg);
+    background-size: cover;
+}
+.jumbotron {
+    background-image: url(../images/game_background.jpg);
+    background-size: cover;
+    color:darkgray;
+    text-shadow: 1px 2px black;
+    font-size: 25px;
+    padding-left: 75px;
+}
+
+.container {
+    background-image: url(../images/background_image2.jpg);
+    background-size: cover;
+    color: black;
+    text-shadow: 1px 1px black;
+    width: 100%;    
+    padding: 3%;
+    margin: 50;
+}
+
+.gem1 {
+
+}
