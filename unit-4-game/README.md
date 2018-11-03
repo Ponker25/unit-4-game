@@ -1,8 +1,8 @@
-# unit-4-game
+# Crystal Collector
 
 ![Crystal Collector](assets/images/Crystal-Collector.PNG)
 
-JQuery Crystals Collector Game
+## JQuery Crystals Collector Game
 
 This is a game where the object is for the User Number to match the Target Number.
 The user will itiate the game by clicking on one of four gems that are present on the screen. 
@@ -13,4 +13,4 @@ Each Gem value will remain the same until the game is reset.
 If the user number matches the target number user wins and game is reset. 
 If the user number exceeds the target number user loses and game is reset. 
 
-Maintained by William Swensen
+### Maintained by William Swensen
