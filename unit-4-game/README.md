@@ -13,4 +13,4 @@ Each Gem value will remain the same until the game is reset.
 If the user number matches the target number user wins and game is reset. 
 If the user number exceeds the target number user loses and game is reset. 
 
-Maintained by Will Swensen
+Maintained by William Swensen
